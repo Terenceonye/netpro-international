@@ -1,3 +1,4 @@
+// fetch new version of css
 document.addEventListener('DOMContentLoaded', function () {
     var cssLinks = document.querySelectorAll('link[rel="stylesheet"]');
     cssLinks.forEach(function(link) {

@@ -34,7 +34,7 @@ Uri: https://videinfra.com/assets/images/common/ul.svg
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\images\common\ul.svg
 Content Type: image/svg+xml
 
-Uri: https://videinfra.com/assets/images/icons.svg?v=1719928988
+Uri: https://videinfra.com/assets/images/icons.svg
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\images\icons.svg
 Content Type: image/svg+xml
 
@@ -654,119 +654,119 @@ Uri: https://videinfra.com/assets/images/px-2x1.gif
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\images\px-2x1.gif
 Content Type: image/gif
 
-Uri: https://videinfra.com/assets/images/px.gif?v=1719928988
+Uri: https://videinfra.com/assets/images/px.gif
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\images\px.gif
 Content Type: image/gif
 
-Uri: https://videinfra.com/assets/javascripts/blank.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/blank.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\blank.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/blog-item.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/blog-item.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\blog-item.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/blog.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/blog.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\blog.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/browser-message.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/browser-message.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\browser-message.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/career.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/career.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\career.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/company.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/company.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\company.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/contact.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/contact.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\contact.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/expertise.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/expertise.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\expertise.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/landing.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/landing.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\landing.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/shared.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/shared.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\shared.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/work.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/work.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\work.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/javascripts/works.js?v=1719928988
+Uri: https://videinfra.com/assets/javascripts/works.js
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\javascripts\works.js
 Content Type: application/javascript
 
-Uri: https://videinfra.com/assets/manifest/apple-touch-icon.png?v=1719928988
+Uri: https://videinfra.com/assets/manifest/apple-touch-icon.png
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\manifest\apple-touch-icon.png
 Content Type: image/png
 
-Uri: https://videinfra.com/assets/manifest/favicon-16x16.png?v=1719928988
+Uri: https://videinfra.com/assets/manifest/favicon-16x16.png
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\manifest\favicon-16x16.png
 Content Type: image/png
 
-Uri: https://videinfra.com/assets/manifest/favicon-32x32.png?v=1719928988
+Uri: https://videinfra.com/assets/manifest/favicon-32x32.png
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\manifest\favicon-32x32.png
 Content Type: image/png
 
-Uri: https://videinfra.com/assets/manifest/manifest.webmanifest?v=1719928988
+Uri: https://videinfra.com/assets/manifest/manifest.webmanifest
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\manifest\manifest.webmanifest
 Content Type: application/octet-stream
 
-Uri: https://videinfra.com/assets/manifest/safari-pinned-tab.svg?v=1719928988
+Uri: https://videinfra.com/assets/manifest/safari-pinned-tab.svg
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\manifest\safari-pinned-tab.svg
 Content Type: image/svg+xml
 
-Uri: https://videinfra.com/assets/stylesheets/blog-item.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/blog-item.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\blog-item.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/blog.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/blog.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\blog.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/career.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/career.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\career.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/company.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/company.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\company.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/contact.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/contact.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\contact.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/expertise.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/expertise.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\expertise.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/global.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/global.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\global.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/landing.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/landing.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\landing.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/privacy-policy.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/privacy-policy.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\privacy-policy.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/work.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/work.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\work.css
 Content Type: text/css
 
-Uri: https://videinfra.com/assets/stylesheets/works.css?v=1719928988
+Uri: https://videinfra.com/assets/stylesheets/works.css
 File Name: C:\Downloaded Web Sites\videinfra.com\assets\stylesheets\works.css
 Content Type: text/css
 
@@ -950,7 +950,7 @@ Uri: https://videinfra.com/expertise/ecommerce
 File Name: C:\Downloaded Web Sites\videinfra.com\expertise\ecommerce.html
 Content Type: text/html
 
-Uri: https://videinfra.com/favicon.ico?v=1719928988
+Uri: https://videinfra.com/favicon.ico
 File Name: C:\Downloaded Web Sites\videinfra.com\favicon.ico
 Content Type: image/x-icon
 

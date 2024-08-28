@@ -93,6 +93,46 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 
+// document.addEventListener("DOMContentLoaded", function() {
+//   const accordions = document.querySelectorAll('[data-plugin="accordion"]');
+//   console.log("Accordions found:", accordions.length); // Debugging: Log the number of accordions
+
+//   accordions.forEach(accordion => {
+//     const headers = accordion.querySelectorAll('.accordion__heading');
+//     console.log("Headers found in accordion:", headers.length); // Debugging: Log the number of headers
+
+//     headers.forEach(header => {
+//       header.addEventListener('click', function() {
+//         console.log("Header clicked:", this); // Debugging: Log the header that was clicked
+
+//         const content = this.nextElementSibling;
+//         const isExpanded = this.querySelector('a').getAttribute('aria-expanded') === 'true';
+//         console.log("Content to toggle:", content); // Debugging: Log the content to be toggled
+
+//         const allContents = accordion.querySelectorAll('.accordion__content');
+//         const allHeaders = accordion.querySelectorAll('.accordion__heading a');
+
+//         allContents.forEach((content) => {
+//           content.setAttribute('aria-hidden', 'true');
+//           content.style.display = 'none';
+//         });
+
+//         allHeaders.forEach((header) => {
+//           header.setAttribute('aria-expanded', 'false');
+//         });
+
+//         if (!isExpanded) {
+//           this.querySelector('a').setAttribute('aria-expanded', 'true');
+//           content.setAttribute('aria-hidden', 'false');
+//           content.style.display = 'block';
+//         }
+//       });
+//     });
+//   });
+// });
+
+
+
 //drag to scroll
 
 document.addEventListener("DOMContentLoaded", function () {

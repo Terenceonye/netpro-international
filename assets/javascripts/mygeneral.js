@@ -172,3 +172,69 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
   
+
+
+  // new accordation on work section js
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Function to open the modal
+    function openModal(contentUrl) {
+      // Assuming the modal exists in your HTML and has an ID 'modal'
+      const modal = document.getElementById('modal');
+  
+      if (modal) {
+        // If you need to load content dynamically, uncomment the fetch lines
+        
+        // fetch(contentUrl)
+        //   .then(response => response.text())
+        //   .then(html => {
+        //     modal.innerHTML = html; // Load the HTML content into the modal
+        //   })
+        //   .catch(error => console.error('Error loading modal content:', error));
+        
+        
+        // Show the modal
+        modal.style.display = 'block';
+        modal.classList.add('active'); // Optional: Add a class to show modal
+      }
+    }
+  
+    // Function to close the modal
+    function closeModal() {
+      const modal = document.getElementById('modal');
+      if (modal) {
+        modal.style.display = 'none';
+        modal.classList.remove('active');
+      }
+    }
+  
+    // Attach click listeners to all links with data-ajax-page-transition attribute
+    const modalLinks = document.querySelectorAll('[data-ajax-page-transition="modal-in"]');
+  
+    modalLinks.forEach(link => {
+      link.addEventListener('click', function (event) {
+        event.preventDefault(); // Prevent default link navigation
+  
+        const href = this.getAttribute('href');
+  
+        // Check if the href contains a hash and separate the URL and the hash
+        const [url, hash] = href.split('#');
+  
+        if (hash === 'modal') {
+          openModal(url); // Open the modal with the content URL
+        } else {
+          // If not intended for modal, follow the normal link behavior
+          window.location.href = href;
+        }
+      });
+    });
+  
+    // Optionally attach a close event if you have a close button in your modal
+    const modalCloseButton = document.getElementById('modal-close-button');
+    if (modalCloseButton) {
+      modalCloseButton.addEventListener('click', function () {
+        closeModal();
+      });
+    }
+  });
+  

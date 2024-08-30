@@ -1,2 +1,2 @@
-# netpro-international
-Netpro International LLC
+# NetPro-international
+NetPro International LLC

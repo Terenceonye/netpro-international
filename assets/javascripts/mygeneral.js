@@ -1,3 +1,18 @@
+// reloading on url change
+let currentUrl = window.location.href;
+
+    setInterval(function () {
+        if (window.location.href !== currentUrl) {
+            // If URL changes, reload the page
+            window.location.reload();
+            currentUrl = window.location.href; // Update the current URL to the new one
+        }
+    }, 500); // Check every second (500ms)
+
+
+
+
+
 
 
     document.addEventListener("DOMContentLoaded", function() {
@@ -238,3 +253,37 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
   
+
+
+  // DISABLING a tags in the work folder
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Select all anchor tags
+    const links = document.querySelectorAll('a');
+
+    // Add a click event listener to each link
+    links.forEach(link => {
+        link.addEventListener('click', function (event) {
+            const href = this.getAttribute('href');
+
+            // Regular expression to match any path or no path before 'work/*.html'
+            const regex = /(.*\/)?work\/[^\/]+\.html$/;
+
+            // If the href matches the 'work/*.html' pattern (even with preceding paths or no path)
+            if (regex.test(href)) {
+                event.preventDefault(); // Prevents the link from navigating
+                console.log("Link disabled: " + href); // Optional logging
+            }
+
+            if(window.location.href === "#") {
+              event.preventDefault()
+            }
+        });
+    });
+});
+
+
+
+
+
+
